@@ -4,4 +4,4 @@ The program also includes visuals of boundary decisions.
 Tools Used: Scikit-learn, Pandas, Matplotlib, plot_decision_regions from Mlxtend 
 ##Screenshot (in the uploaded jupiter file of TASK_6 a code snippet was not been shown even after runnning it on my jupiter notebook, therefore providing the 
 screenshot of that particular part)
-![App Screenshot](Screenshots/SS_TASK_6.png)
+![App Screenshot](c++%programs/SS_TASK_6.png)
